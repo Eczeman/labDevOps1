@@ -1,5 +1,0 @@
-projectKey=RIBEREAU_PEZOU:LabDevOps
-serverUrl=http://localhost:9000
-dashboardUrl=http://localhost:9000/dashboard/index/RIBEREAU_PEZOU:LabDevOps
-ceTaskId=AV7xu1k7wgW5_AF3-nxI
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AV7xu1k7wgW5_AF3-nxI
