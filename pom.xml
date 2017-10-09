@@ -21,6 +21,7 @@
 					<target>1.8</target>
 				</configuration>
 			</plugin>
+			
 			<plugin>
 				<artifactId>maven-assembly-plugin</artifactId>
 				<configuration>
@@ -32,7 +33,21 @@
 					<descriptorRefs>
 						<descriptorRef>jar-with-dependencies</descriptorRef>
 					</descriptorRefs>
+					<descriptors>
+						<descriptor>src/main/java/assembly/assemblySrc.xml</descriptor>
+						<descriptor>src/main/java/assembly/assemblyBin.xml</descriptor>
+					</descriptors>
+					<finalName>LabDevOps-${project.version}</finalName>
 				</configuration>
+				<executions>
+                    <execution>
+                        <id>make-assembly</id>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>single</goal>
+                        </goals>
+                    </execution>
+				</executions>
 			</plugin>
 
 			<plugin>

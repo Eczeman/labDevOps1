@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="RIBEREAU_PEZOU.LabDevOps.AppTest" time="0.003" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="RIBEREAU_PEZOU.LabDevOps.AppTest" time="0.006" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="FR"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files (x86)\Java\jdk1.8.0_72\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\Nicolas\AppData\Local\Temp\surefire430385319868678525\surefirebooter4753122042323639213.jar C:\Users\Nicolas\AppData\Local\Temp\surefire430385319868678525 2017-10-06T17-49-49_644-jvmRun1 surefire5634404237396982652tmp surefire_0771353162113041889tmp"/>
+    <property name="sun.java.command" value="C:\Users\Nicolas\AppData\Local\Temp\surefire8643598690230623471\surefirebooter6394345000744521285.jar C:\Users\Nicolas\AppData\Local\Temp\surefire8643598690230623471 2017-10-09T10-20-25_327-jvmRun1 surefire7264007741854846578tmp surefire_05447560045623515180tmp"/>
     <property name="surefire.test.class.path" value="C:\M1ICE\DevOps\lab\LabDevOps\target\test-classes;C:\M1ICE\DevOps\lab\LabDevOps\target\classes;C:\Users\Nicolas\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\Nicolas\.m2\repository\org\swinglabs\swingx\1.6.1\swingx-1.6.1.jar;C:\Users\Nicolas\.m2\repository\com\jhlabs\filters\2.0.235\filters-2.0.235.jar;C:\Users\Nicolas\.m2\repository\org\swinglabs\swing-worker\1.1\swing-worker-1.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Nicolas"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Nicolas\AppData\Local\Temp\surefire430385319868678525\surefirebooter4753122042323639213.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Nicolas\AppData\Local\Temp\surefire8643598690230623471\surefirebooter6394345000744521285.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files (x86)\Java\jdk1.8.0_72\jre\lib\resources.jar;C:\Program Files (x86)\Java\jdk1.8.0_72\jre\lib\rt.jar;C:\Program Files (x86)\Java\jdk1.8.0_72\jre\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jdk1.8.0_72\jre\lib\jsse.jar;C:\Program Files (x86)\Java\jdk1.8.0_72\jre\lib\jce.jar;C:\Program Files (x86)\Java\jdk1.8.0_72\jre\lib\charsets.jar;C:\Program Files (x86)\Java\jdk1.8.0_72\jre\lib\jfr.jar;C:\Program Files (x86)\Java\jdk1.8.0_72\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
@@ -53,7 +53,7 @@
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.library.path" value="C:\Program Files (x86)\Java\jdk1.8.0_72\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Haskell\bin;C:\Program Files\Haskell Platform\8.0.1\lib\extralibs\bin;C:\Program Files\Haskell Platform\8.0.1\bin;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files\Android\SDK\platform-tools;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Condusiv Technologies\ExpressCache\;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Skype\Phone\;C:\Users\Nicolas\AppData\Local\Programs\Python\Python35-32\Scripts\;C:\Users\Nicolas\AppData\Local\Programs\Python\Python35-32\;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Haskell Platform\8.0.1\mingw\bin;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\Nicolas\AppData\Roaming\cabal\bin;C:\Users\Nicolas\AppData\Roaming\local\bin;C:\Users\Nicolas\AppData\Local\Programs\Python\Python35-32\Scripts\;C:\Users\Nicolas\AppData\Local\Programs\Python\Python35-32\;C:\Program Files (x86)\Google\google_appengine\;C:\Users\Nicolas\AppData\Local\atom\bin;C:\Program Files (x86)\apache-maven-3.5.0\bin;;."/>
-    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="java.vm.version" value="25.72-b15"/>
     <property name="java.ext.dirs" value="C:\Program Files (x86)\Java\jdk1.8.0_72\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
